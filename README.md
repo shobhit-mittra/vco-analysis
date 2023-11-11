@@ -9,7 +9,7 @@ This repository showcases the design and analysis of an CMOS-inverter based Volt
 3. [Inverter Based-VCO (Circuit Design and Methodology)](Inverter_VCO.md) : Demonstrates the inverter based VCO circuit design and methodology
 4. [Results and Waveforms](Results.md) : Contains the results i.e the waveforms obtained during the study 
 5. [TSMC 180um Liberty](tsmc018.lib) : The spice liberty file used in the study for anlaysis
-6. [SPICE-Netlist](vco.sp) : Contains the SPICE netlist used for the simulation
+6. [SPICE-Netlist](vco.spice) : Contains the SPICE netlist used for the simulation
 
 
 ## Resources :
