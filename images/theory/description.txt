@@ -1,1 +1,0 @@
-This folder contains the images used in the report for the theory segment. Excludes all the simulation images. Check the simulation directory for simulation images.
