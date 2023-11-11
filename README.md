@@ -4,8 +4,8 @@ This repository showcases the design and analysis of an CMOS-inverter based Volt
 
 ## Index 
 
-1. [Introduction](#intro)
-2. [VCO Basics](#vco_basics)
+1. [Introduction](#Introduction.md)
+2. [VCO Basics](#VCO_Basics.md)
 3. [Inverter Based-VCO (Circuit Design and Methodology)](#inv_vco)
 
 
