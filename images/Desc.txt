@@ -1,1 +1,0 @@
-Contains the images used in the theory segment of the study. Excludes the image results of simulations. 
